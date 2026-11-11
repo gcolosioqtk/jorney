@@ -49,7 +49,8 @@
 
 # COMMAND ----------
 
-# MAGIC %run ./Includes/Classroom-Setup-1
+# DBTITLE 1,Cell 5
+# MAGIC %run "/Users/gcolosio@quanticati.com/Get Started with Data Engineering on Databricks/Includes/Classroom-Setup-1"
 
 # COMMAND ----------
 
